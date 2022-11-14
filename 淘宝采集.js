@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         淘宝采集
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.11
 // @description  自动进行淘宝采集功能-定制化
 // @author       You
 // @match        https://t.chachazhan.com/*
